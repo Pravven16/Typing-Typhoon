@@ -10,3 +10,19 @@
     margin: 0 auto;
     width: 300px;
 }
+.stats {
+    margin: 0 auto;
+    width: 300px;
+}
+
+body {
+    background-color: #333;
+    color: #fff;
+    font-family: monospace;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
